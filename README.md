@@ -5,8 +5,11 @@
 <h1 align="center">LookBusy</h1>
 
 <p align="center">
-  Flick your MacBook's lid and your cover app jumps to the front.<br>
-  Look busy in an instant.
+  Look busy. With a flick of your MacBook lid.
+
+  LookBusy is a macOS menu bar utility that brings your chosen
+  running app to the foreground when you quickly move your
+  MacBook’s lid.
 </p>
 
 <p align="center">
