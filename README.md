@@ -4,11 +4,7 @@
 
 <h1 align="center">LookBusy</h1>
 
-<p align="center">
-  
-  <video src="https://github.com/user-attachments/assets/bc9da3be-e851-4083-bc2e-06b477e4294b" width="400" controls></video>
-
-</p>
+<img width="360" height="640" alt="demo-480p" src="https://github.com/user-attachments/assets/9dff1d85-7219-4d5a-bab0-1ec18d9b0cae" />
 
 <p align="center">
   Look busy. With a flick of your MacBook lid.
