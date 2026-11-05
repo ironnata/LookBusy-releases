@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  <video src="https://github.com/user-attachments/assets/bc9da3be-e851-4083-bc2e-06b477e4294b" width="360" controls></video>
+  <video src="https://github.com/user-attachments/assets/bc9da3be-e851-4083-bc2e-06b477e4294b" width="400" controls></video>
 
 </p>
 
